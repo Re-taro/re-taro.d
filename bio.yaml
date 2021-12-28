@@ -1,0 +1,12 @@
+- when: 2004
+  title: "山口県で生まれる."
+
+- when: 2020
+  title: "鈴鹿工業高等専門学校 電子情報工学科に入学."
+
+- when: 2021
+  title: "パソコン甲子園 2021 モバイル部門 本戦出場."
+
+- when: 2021
+  title: "Hack U Kosen 2021 に出場. \
+  Yahoo!賞とHappy Hacking賞を受賞."
