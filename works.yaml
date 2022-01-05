@@ -1,0 +1,24 @@
+- title: "Togather"
+  id: "togather"
+  description: "Hack U KOSEN 2021 にて作成. \
+  「ありがとう」を届ける落とし物プラットフォーム."
+  image_url: "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/togather.png"
+  work_page:
+    title: "Togather"
+    implementation: 2021
+    detail: "12/18にオンラインで行われたHack U KOSEN 2021にて4年生の先輩2人と私を含めた2年生3人で共同開発した作品. \
+    管理されずらい学内での落とし物を管理したい、届かない感謝を届けたいという課題を解決するため、 \
+    「ありがとう」を届ける落とし物プラットフォーム、Togatherを開発しました. \
+    ヤフー賞とHappyHacking賞の2冠を達成しました."
+    meta:
+      platform: "iPad, LINE Bot"
+      stack: "React.js, Nest.js, LINE Messaging API, Tailwind CSS, TypeScript, Docker"
+      presentation:
+        title: "Hack U KOSEN 2021 プレゼンテーション・作品展示会・表彰式"
+        url: "https://youtu.be/uzsjm_9tSwY?t=801"
+      source: "https://github.com/HackU-Kosen-SNCT"
+    images:
+      - "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/slide-1.png"
+      - "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images//slide-6.png"
+      - "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/slide-7.png"
+      - "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/slide-9.png"
