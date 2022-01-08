@@ -1,3 +1,26 @@
+- title: "Micelle"
+  id: "micelle"
+  description: "パソコン甲子園2021 モバイル部門にて作成. \
+  遠隔でのグループ活動を補助するための体調・タスク管理ツール."
+  image_url: "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/Micelle.jpg"
+  work_page:
+    title: "Micelle"
+    implementation: 2021
+    detail: "11/14にオンラインで行われたパソコン甲子園2021 モバイル部門にて私を含む2年生3人で共同開発した作品. \
+    オンライン環境下による対面で作業ができないためコミュニケーションが減り互いの状況を把握することが難しいという課題を解決するため、\
+    遠隔でのグループ活動を補助するための体調・タスク管理ツール、Micelleを開発しました. \
+    本戦に出場しました."
+    meta:
+      platform: "Android"
+      stack: "React Native, Firebase, Node.js"
+      presentation:
+        title: "パソコン甲子園2021 モバイル部門競技"
+        url: "https://youtu.be/-dx1HguwnaA?t=3467"
+    images:
+      - "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/Micelle-1.jpg"
+      - "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/Micelle-2.jpg"
+      - "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/Micelle-3.jpg"
+
 - title: "Togather"
   id: "togather"
   description: "Hack U KOSEN 2021 にて作成. \
@@ -22,26 +45,3 @@
       - "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images//slide-6.png"
       - "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/slide-7.png"
       - "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/slide-9.png"
-
-- title: "Micelle"
-  id: "micelle"
-  description: "パソコン甲子園2021 モバイル部門にて作成. \
-  遠隔でのグループ活動を補助するための体調・タスク管理ツール."
-  image_url: "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/Micelle.jpg"
-  work_page:
-    title: "Micelle"
-    implementation: 2021
-    detail: "11/14にオンラインで行われたパソコン甲子園2021 モバイル部門にて私を含む2年生3人で共同開発した作品. \
-    オンライン環境下による対面で作業ができないためコミュニケーションが減り互いの状況を把握することが難しいという課題を解決するため、\
-    遠隔でのグループ活動を補助するための体調・タスク管理ツール、Micelleを開発しました. \
-    本戦に出場しました."
-    meta:
-      platform: "Android"
-      stack: "React Native, Firebase, Node.js"
-      presentation:
-        title: "パソコン甲子園2021 モバイル部門競技"
-        url: "https://youtu.be/-dx1HguwnaA?t=3467"
-    images:
-      - "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/Micelle-1.jpg"
-      - "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/Micelle-2.jpg"
-      - "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/Micelle-3.jpg"
