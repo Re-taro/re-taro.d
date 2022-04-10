@@ -13,3 +13,10 @@
 - when: 2021
   title: "Hack U KOSEN 2021 に出場. \
   ヤフー賞,Happy Hacking賞 受賞."
+
+- when: 2022
+  title: "Web Speed Hackathon 2022 for Students に出場. \
+  総合順位4位."
+
+- when: 2022
+  title: "NIT Toba Hackathon アイエスイー賞 受賞."

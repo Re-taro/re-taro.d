@@ -1,11 +1,11 @@
 - title: "Hello World"
   id: "hello-world"
-  image_url: "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/hello.jpg"
+  emoji: "👋"
 
 - title: "How to Install C++'s Environment"
   id: "how2cpp"
-  image_url: "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/how2cpp.jpg"
+  emoji: "💻"
 
 - title: "Look back 2nd grade"
   id: "look-back-2nd"
-  image_url: "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/look-back.jpg"
+  emoji: "📚"
