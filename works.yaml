@@ -2,7 +2,7 @@
   id: "micelle"
   description: "パソコン甲子園2021 モバイル部門にて作成. \
   遠隔でのグループ活動を補助するための体調・タスク管理ツール."
-  image_url: "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/Micelle.jpg"
+  image_url: "https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1650199701/works/Micelle_fbwvwp.jpg"
   work_page:
     title: "Micelle"
     implementation: 2021
@@ -25,7 +25,7 @@
   id: "togather"
   description: "Hack U KOSEN 2021 にて作成. \
   「ありがとう」を届ける落とし物プラットフォーム."
-  image_url: "https://raw.githubusercontent.com/Re-taro/re-taro.d/main/images/togather.png"
+  image_url: "https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1650199702/works/togather_mf23op.png"
   work_page:
     title: "Togather"
     implementation: 2021
