@@ -1,22 +1,29 @@
-- when: 2004
+- when: '2004-04-25'
   title: "山口県で生まれる."
+  action: 'Birth'
 
-- when: 2020
+- when: '2020-04-06'
   title: "鈴鹿工業高等専門学校 電子情報工学科に入学."
+  action: 'Enroll'
 
-- when: 2021
+- when: '2021-03-12'
   title: "NIT Toba Hackathon 三重電算センター賞 受賞."
+  action: 'Awards'
 
-- when: 2021
+- when: '2021-11-15'
   title: "パソコン甲子園 2021 モバイル部門 本戦出場."
+  action: 'Fight bravely'
 
-- when: 2021
+- when: '2021-12-18'
   title: "Hack U KOSEN 2021 に出場. \
   ヤフー賞,Happy Hacking賞 受賞."
+  action: 'Awards'
 
-- when: 2022
+- when: '2022-03-06'
   title: "Web Speed Hackathon 2022 for Students に出場. \
   総合順位4位."
+  action: 'Awards'
 
-- when: 2022
+- when: '2022-03-07'
   title: "NIT Toba Hackathon アイエスイー賞 受賞."
+  action: 'Awards'
