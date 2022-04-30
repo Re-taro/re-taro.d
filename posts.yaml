@@ -1,11 +1,14 @@
 - title: "Hello World"
   id: "hello-world"
   emoji: "👋"
+  date: "2022-01-05"
 
 - title: "How to Install C++'s Environment"
   id: "how2cpp"
   emoji: "💻"
+  date: "2022-01-09"
 
 - title: "Look back 2nd grade"
   id: "look-back-2nd"
   emoji: "📚"
+  date: "2022-02-10"
