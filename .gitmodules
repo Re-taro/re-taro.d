@@ -1,0 +1,4 @@
+[submodule "blog"]
+	path = blog
+	url = https://github.com/re-taro/blog.git
+	branch = main
