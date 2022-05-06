@@ -8,6 +8,8 @@ tags: ["life", "2nd-grade"]
 
 # 2年生を振り返って
 
+## 目次
+
 ## はじめに
 
 こんにちは。[@Re-taro](https://twitter.com/10969_rintaro)です。
