@@ -78,7 +78,7 @@ React Nativeへの愛が深まった。
 
 当時の開発時のブラウザが↓
 
-![browser](https://raw.githubusercontent.com/Re-taro/blog/main/images/look-back1.png)
+![browser](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1651581724/posts/look-back-2nd/look-back1_a4rfee.png)
 
 ### 11月
 
