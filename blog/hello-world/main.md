@@ -6,8 +6,6 @@ date: "2022-01-05"
 tags: ["Hello"]
 ---
 
-## 目次
-
 ## ブログ開設しました
 
 こんにちは、[@Re-taro](https://twitter.com/10969_rintaro/)です。
