@@ -11,8 +11,12 @@
     遠隔でのグループ活動を補助するための体調・タスク管理ツール、Micelleを開発しました. \
     本戦に出場しました."
     meta:
-      platform: "Android"
-      stack: "React Native, Firebase, Node.js"
+      platform:
+        - "Android"
+      stack:
+        - "React Native"
+        - "Firebase"
+        - "Node.js"
       presentation:
         title: "パソコン甲子園2021 モバイル部門競技"
         url: "https://youtu.be/-dx1HguwnaA?t=3467"
@@ -34,8 +38,14 @@
     「ありがとう」を届ける落とし物プラットフォーム、Togatherを開発しました. \
     ヤフー賞とHappyHacking賞の2冠を達成しました."
     meta:
-      platform: "iPad, LINE Bot"
-      stack: "React.js, Nest.js, LINE Messaging API, Tailwind CSS, TypeScript, Docker"
+      platform:
+        - "iPad"
+        - "LINE Bot"
+      stack:
+        - "React.js"
+        - "Nest.js"
+        - "LINE Messaging API"
+        - "Tailwind CSS"
       presentation:
         title: "Hack U KOSEN 2021 プレゼンテーション・作品展示会・表彰式"
         url: "https://youtu.be/uzsjm_9tSwY?t=801"

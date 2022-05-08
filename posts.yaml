@@ -2,10 +2,13 @@
   id: "hello-world"
   emoji: "👋"
   date: "2022-01-05"
-  tags: ["Hello"]
+  tags:
+    - "Hello"
 
 - title: "Look back 2nd grade"
   id: "look-back-2nd"
   emoji: "📚"
   date: "2022-02-10"
-  tags: ["life", "2nd-grade"]
+  tags:
+    - "life"
+    - "2nd-grade"
