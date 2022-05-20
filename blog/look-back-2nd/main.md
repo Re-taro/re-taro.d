@@ -32,7 +32,7 @@ Twitterで見たことある～って人と沢山仲良くなった。
 
 ### 4月
 
-人数の減ってしまったクラスの名簿を見てoopsな気持ちになっていた。
+人数の減ってしまったクラスの名簿を見て残念な気持ちになっていた。
 
 形態要素解析の楽しさに気づいて、Pythonで永遠にうんコードを書いていた。
 
@@ -70,7 +70,7 @@ React Native Japanのカンファレンスに参加した。
 
 React Nativeへの愛が深まった。
 
-開発の進捗がヤバ子でチームのバックエンドにすごい負担をかけてしまった。
+開発の進捗がヤバくてでチームのバックエンドにすごい負担をかけてしまった。
 
 ### 10月
 
@@ -78,7 +78,7 @@ React Nativeへの愛が深まった。
 
 当時の開発時のブラウザが↓
 
-![browser](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1651581724/posts/look-back-2nd/look-back1_a4rfee.png)
+![同時に複数情報を得ているの図](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1651581724/posts/look-back-2nd/look-back1_a4rfee.png)
 
 ### 11月
 
