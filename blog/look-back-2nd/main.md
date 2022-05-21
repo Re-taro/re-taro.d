@@ -1,12 +1,10 @@
 ---
-title: "Look back 2nd grade"
+title: "2年生を振り返って"
 id: "look-back-2nd"
 emoji: "📚"
 date: "2022-02-10"
 tags: ["life", "2nd-grade"]
 ---
-
-# 2年生を振り返って
 
 ## 目次
 

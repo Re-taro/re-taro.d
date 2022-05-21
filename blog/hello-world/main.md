@@ -3,7 +3,7 @@ title: "Hello World"
 id: "hello-world"
 emoji: "👋"
 date: "2022-01-05"
-tags: ["Hello"]
+tags: ["develope", "hello"]
 ---
 
 ## ブログ開設しました

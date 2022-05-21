@@ -3,12 +3,21 @@
   emoji: "👋"
   date: "2022-01-05"
   tags:
-    - "Hello"
+    - "develope"
+    - "hello"
 
-- title: "Look back 2nd grade"
+- title: "2年生を振り返って"
   id: "look-back-2nd"
   emoji: "📚"
   date: "2022-02-10"
   tags:
     - "life"
     - "2nd-grade"
+
+- title: "ポートフォリオを新調しました"
+  id: "new-portfolio"
+  emoji: "✨"
+  date: "2022-05-21"
+  tags:
+    - "develope"
+    - "new"
