@@ -161,7 +161,7 @@ export default withUrqlClient(
 
 https://github.com/remarkjs/remark-gfm
 
-```
+```md
 | 表を     | 作る       |
 | -------- | ---------- |
 | たとえば | このように |
@@ -245,10 +245,10 @@ const PostMeta: React.FC<PostMetaPropeties> = ({ meta }) => (
 [@haxibami](https://github.com/haxibami)さんが作成した`remark-jaruby`を用いた。
 
 ```
-> {{水晶機巧}^{クリストロン}－ハリファイバー}^{我らが母}
+> {水晶機巧}^{クリストロン}－ハリファイバー
 ```
 
-> {{水晶機巧}^{クリストロン}－ハリファイバー}^{我らが母}
+> {水晶機巧}^{クリストロン}－ハリファイバー
 
 以上を合わせた`remark-parse` / `remark-rehype`まわりのメソッドチェーンが下の通り
 
@@ -345,7 +345,7 @@ export { RehypeReact };
 
 https://github.com/re-taro/ogp.re-taro.dev
 
-![OGP](https://ogp.re-taro.dev/api/ogp?title=ポートフォリオを新調しました&date=2022-05-21)
+![OGP](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1653141535/posts/new-portfolio/new-porfolio3_pdt0ou.png)
 
 ### 自動再デプロイ
 
