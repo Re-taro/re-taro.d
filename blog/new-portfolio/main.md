@@ -244,11 +244,11 @@ const PostMeta: React.FC<PostMetaPropeties> = ({ meta }) => (
 
 [@haxibami](https://github.com/haxibami)さんが作成した`remark-jaruby`を用いた。
 
-```
-> {水晶機巧}^{クリストロン}－ハリファイバー
+```md
+> {{水晶機巧}^(クリストロン)－ハリファイバー}^(我らが母)
 ```
 
-> {水晶機巧}^{クリストロン}－ハリファイバー
+> {{水晶機巧}^(クリストロン)－ハリファイバー}^(我らが母)
 
 以上を合わせた`remark-parse` / `remark-rehype`まわりのメソッドチェーンが下の通り
 
