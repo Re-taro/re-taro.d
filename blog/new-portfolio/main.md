@@ -3,7 +3,7 @@ title: "ポートフォリオを新調しました"
 id: "new-portfolio"
 emoji: "✨"
 date: "2022-05-21"
-tags: ["develope", "new"]
+tags: ["develop", "new"]
 ---
 
 ## 目次
