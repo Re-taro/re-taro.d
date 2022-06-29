@@ -23,15 +23,15 @@ tags: ["life", "conference"]
 
 技育博の会場は[CARTA HOLDINGS](https://cartaholdings.co.jp/)さんのオフィスをお借りして行われました。都会の中のオフィスって感じで感動してました...
 
-![渋谷ソラスタの見た目(マジでかっこよすぎる)](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656515084/posts/joined-geekhaku/geek1_q0z3ip.jpg)
+![渋谷ソラスタの見た目(マジでかっこよすぎる)](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656519621/posts/joined-geekhaku/geek1_pzwies.jpg)
 
 会場内は撮影okだったので写真をたくさん貼ります
 
-![15回らしい...](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656515084/posts/joined-geekhaku/geek2_fhwbae.heic)
+![15回らしい...](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656519621/posts/joined-geekhaku/geek2_g528xe.jpg)
 
-![CAさんが提供してくれた...](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656515084/posts/joined-geekhaku/geek3_okno3y.heic)
+![CAさんが提供してくれた...](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656519621/posts/joined-geekhaku/geek3_ics7to.jpg)
 
-![サイバー弁当](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656515084/posts/joined-geekhaku/geek4_y6ld3w.heic)
+![サイバー弁当](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656519621/posts/joined-geekhaku/geek4_c3yw6j.jpg)
 
 ↑これまじで美味しすぎて一人でぴょんぴょんしてた
 
