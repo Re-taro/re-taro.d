@@ -22,11 +22,11 @@ tags: ["life", "conference"]
 
 ### まず会場がエグい
 
-技育博の会場は[CARTA HOLDINGS](https://cartaholdings.co.jp/)さんのオフィスをお借りして行われました。都会の中のオフィスって感じで感動してました...
+技育博の会場は[CARTA HOLDINGS](https://cartaholdings.co.jp/)さんのオフィスをお借りして行われました。都会の中のオフィスって感じで感動してました...。
 
 ![渋谷ソラスタの見た目(マジでかっこよすぎる)](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656519621/posts/joined-geekhaku/geek1_pzwies.jpg)
 
-会場内は撮影okだったので写真をたくさん貼ります
+会場内は撮影okだったので写真をたくさん貼ります。
 
 ![15階らしい...](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656519621/posts/joined-geekhaku/geek2_g528xe.jpg)
 
@@ -34,11 +34,11 @@ tags: ["life", "conference"]
 
 ![サイバー弁当](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656519621/posts/joined-geekhaku/geek4_c3yw6j.jpg)
 
-↑これまじで美味しすぎて一人でぴょんぴょんしてた
+↑これまじで美味しすぎて一人でぴょんぴょんしてた。
 
 ### 協賛の企業がエグい
 
-一度は名前を聞いたことがある企業がたくさん協賛していました！ノベルティも豪華でこんなにもらって大丈夫なのかなって思うほどでした笑
+一度は名前を聞いたことがある企業がたくさん協賛していました！ノベルティも豪華でこんなにもらって大丈夫なのかなって思うほどでした笑。
 
 ![協賛企業様](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656513375/posts/joined-geekhaku/sponsor_qkrvcc.png)
 
@@ -61,14 +61,14 @@ CAさんのところではただただWeb Speed Hackathonを企画、開催し�
 各団体によってやっていることが異なり、自分の好きなジャンル以外の学生団体経も積極的に話に行きました。
 
 今回、私が技育博に参加した理由の一つに、他団体がどのように団体を継続しているのか疑問に思い、運営のノウハウを聞きたかったことがあります。
-いくつかの(主に大学の)団体にお聞きしたところ、どこも同じような課題を抱えていました。主に、
+いくつかの(主に大学の)団体にお聞きしたところ、どこも同じような課題を抱えていました。主に。
 
 - 興味を持ってくれて入ってくれた新入生が来年にはいなくなっている
 -  しかしどのように継続的に興味をもたせるかはわからない
 
 などです。
 
-そんな中いくつかの解をもらったのですが、具体的に
+そんな中いくつかの解をもらったのですが、具体的に。
 
 - 上級生がメンターとなって着いてあげる
 - 使用言語の固定
@@ -86,7 +86,7 @@ Twitterで見たことのある人だ！と学生の方から言われたり、�
 
 ## 用意したもの
 
-名刺を初めて作ってみました。色んな人の心の何処かに残ってほしかったので作っちゃいました
+名刺を初めて作ってみました。色んな人の心の何処かに残ってほしかったので作っちゃいました。
 
 ![表面。あえてengineerではなくcrafterなのがポイント](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656517640/posts/joined-geekhaku/name_card_front_w9myd2.png)
 

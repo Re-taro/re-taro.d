@@ -182,7 +182,7 @@ https://re-taro.dev
 
 https://re-taro.dev
 
-みたいな生のリンクも置けるし
+みたいな生のリンクも置けるし。
 
 - こうやって
   - リストが書ける。さらに、[^3]
@@ -193,7 +193,7 @@ https://re-taro.dev
 
 https://github.com/remarkjs/remark-gemoji
 
-`:v:`が:v:になる
+`:v:`が:v:になる。
 
 ### 数式
 
@@ -250,7 +250,7 @@ const PostMeta: React.FC<PostMetaPropeties> = ({ meta }) => (
 
 > {水晶機巧－ハリファイバー}^(我らが母)
 
-以上を合わせた`remark-parse` / `remark-rehype`まわりのメソッドチェーンが下の通り
+以上を合わせた`remark-parse` / `remark-rehype`まわりのメソッドチェーンが下の通り。
 
 ```ts
 // utils/parser.ts
@@ -351,7 +351,7 @@ https://github.com/re-taro/ogp.re-taro.dev
 
 [データを置いているリポジトリ](https://github.com/re-taro/re-taro.d)が更新されるとactionsが発火して[ポートフォリオのリポジトリ](https://github.com/re-taro/re-taro.dev)へdispatchを送りそれを受け取った方で自動ビルドが走る。なかなかシャレオツで気に入ってる。
 
-ディスパッチを送る側
+ディスパッチを送る側。
 ```yaml
 name: Dispatch
 on: push
@@ -364,7 +364,7 @@ jobs:
           curl -vv -H "Authorization: token ${{ secrets.DISPATCH_TOKEN }}" -H "Accept: application/vnd.github.everest-preview+json" "https://api.github.com/repos/re-taro/re-taro.dev/dispatches" -d '{"event_type": "update"}'
 ```
 
-ディスパッチを受け取る側
+ディスパッチを受け取る側。
 ```yaml
 name: Dispatch production build
 
@@ -383,4 +383,4 @@ jobs:
 
 [^1]: https://qiita.com/UCLab1421/items/1c4e4acfdc785dbfa269
 [^2]: https://zenn.dev/t_keshi/articles/emotional-usage-of-emotion
-[^3]: 脚注も使える
+[^3]: 脚注も使える。
