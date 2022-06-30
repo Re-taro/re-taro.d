@@ -15,6 +15,7 @@ tags: ["life", "conference"]
 ## まずは感想
 
 > とっても楽しかったです！めっちゃ貴重な機会を作ってくださりありがとうございます！また機会がありましたら参加したいです！本日はとても楽しいイベントの企画、運営ありがとうございます！お疲れ様でした！  #技育博
+>
 > 引用: 私のツイート[^1]
 
 ## 規模がすごすぎた話
@@ -27,7 +28,7 @@ tags: ["life", "conference"]
 
 会場内は撮影okだったので写真をたくさん貼ります
 
-![15回らしい...](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656519621/posts/joined-geekhaku/geek2_g528xe.jpg)
+![15階らしい...](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656519621/posts/joined-geekhaku/geek2_g528xe.jpg)
 
 ![CAさんが提供してくれた...](https://res.cloudinary.com/re-taro/image/upload/q_60/f_auto/v1656519621/posts/joined-geekhaku/geek3_ics7to.jpg)
 
@@ -43,7 +44,7 @@ tags: ["life", "conference"]
 
 ## 企業LT
 
-イベントが始まってからすぎに企業LTが始まりました。各企業初めて登壇する人やお若い人たちが登壇していて、技育の新しい試みに乗っかってどこの企業もチャレンジしているように見えました。
+イベントが始まってからすぐに企業LTが始まりました。各企業初めて登壇する人やお若い人たちが登壇していて、技育の新しい試みに乗っかってどこの企業もチャレンジしているように見えました。
 僕は来年就職を考えているため、とても参考になるLTが多かったです。
 
 ## 企業ブース
