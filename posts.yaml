@@ -28,6 +28,7 @@
   date: "2022-06-02"
   tags:
     - "life"
+
 - title: "技育博に参加しました"
   id: "joined-geekhaku"
   emoji: "🧑‍💻"
@@ -35,6 +36,7 @@
   tags:
     - "life"
     - "conference"
+
 - title: "不可解参(狂)の感想とか。"
   id: "crazy-for-you"
   emoji: "🌸"
@@ -42,3 +44,11 @@
   tags:
     - "life"
     - "geek"
+
+- title: "デスマーチの歩み方"
+  id: "how-to-walk-death-march"
+  emoji: "🚶"
+  date: "2022-12-08"
+  tags:
+    - "develop"
+    - "poem"
