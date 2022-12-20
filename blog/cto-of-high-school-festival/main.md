@@ -1,6 +1,6 @@
 ---
 title: "高専祭のCTOをしていた話"
-id: "look-back-cto"
+id: "cto-of-high-school-festival"
 emoji: "🕺"
 date: "2022-12-21"
 tags: ["life", "reroad"]
