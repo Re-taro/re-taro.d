@@ -60,3 +60,11 @@
   tags:
     - "life"
     - "reroad"
+
+- title: "アドカレを主催した"
+  id: "advent-calendar"
+  emoji: "📅"
+  date: "2022-12-25"
+  tags:
+    - "life"
+    - "advent-calendar"
