@@ -5,7 +5,7 @@ specifiers:
   '@textlint/ast-node-types': 12.6.0
   '@textlint/types': 12.6.0
   sudachi-synonyms-dictionary: 12.0.0
-  textlint: 12.5.2
+  textlint: 12.6.0
   textlint-rule-ja-no-mixed-period: 3.0.1
   textlint-rule-no-double-negative-ja: 2.0.1
   textlint-rule-no-dropping-the-ra: 3.0.0
@@ -17,7 +17,7 @@ devDependencies:
   '@textlint/ast-node-types': 12.6.0
   '@textlint/types': 12.6.0
   sudachi-synonyms-dictionary: 12.0.0
-  textlint: 12.5.2
+  textlint: 12.6.0
   textlint-rule-ja-no-mixed-period: 3.0.1
   textlint-rule-no-double-negative-ja: 2.0.1
   textlint-rule-no-dropping-the-ra: 3.0.0_2a2fjylnfeoqfr4d3e5cv3moki
@@ -1451,8 +1451,8 @@ packages:
       structured-source: 3.0.2
     dev: true
 
-  /textlint/12.5.2:
-    resolution: {integrity: sha512-+QPl/5gCwYsROpqFcWnt776XF6ypsc2y5bsZ9velnEVrj0KnXH1LbfOtiqBUl8d47U9SawG3/m92aFXV0fRaXw==}
+  /textlint/12.6.0:
+    resolution: {integrity: sha512-ApCBRN6bq0ATD3E3f7gdRni4L/zcpy6mbZ9PrDyfc96zt0T98FYd2hATxS1g13AOov8pgMGm8qYmYFTqKXRFzQ==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
     hasBin: true
     dependencies:
