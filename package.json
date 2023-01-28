@@ -23,7 +23,7 @@
     "@textlint/ast-node-types": "13.0.4",
     "@textlint/types": "13.0.4",
     "sudachi-synonyms-dictionary": "12.0.0",
-    "textlint": "13.0.2",
+    "textlint": "13.0.4",
     "textlint-rule-ja-no-mixed-period": "3.0.1",
     "textlint-rule-no-double-negative-ja": "2.0.1",
     "textlint-rule-no-dropping-the-ra": "3.0.0",
